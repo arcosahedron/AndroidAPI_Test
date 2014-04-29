@@ -40,7 +40,7 @@ public class SoundPoolTest extends Activity implements OnTouchListener {
 		if (event.getAction() == MotionEvent.ACTION_UP){
 			if(explosionId != -1){
 				soundPool.play(explosionId,1,1,0,0,1); //Play at max volume on both speakers
-			} //This has been recomitted
+			} 
 		}
 		return true;
 	}
