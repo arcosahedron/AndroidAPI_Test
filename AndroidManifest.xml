@@ -116,6 +116,13 @@
              android:screenOrientation="portrait">
         </activity> 
         
+        <activity
+             android:name=".SurfaceViewTest"
+             android:label="Surface Views Test" 
+             android:configChanges = "keyboard|keyboardHidden|orientation" 
+             android:screenOrientation="portrait">
+        </activity> 
+        
     </application>
     
     
