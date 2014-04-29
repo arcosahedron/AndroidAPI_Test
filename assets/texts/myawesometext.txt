@@ -1,0 +1,8 @@
+This is my first file!!
+This is my first file!!
+This is my first file!!
+This is my first file!!!
+This is my first file!!
+This is my first file!!
+This is my first file!!
+This file is opened from assets/texts/myawesometext.txt
